@@ -1,4 +1,3 @@
-# Jet Lee
 ### Personal Website
 
 ## About me:
